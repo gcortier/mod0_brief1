@@ -16,5 +16,10 @@ ou directement :
 - `pip install -r .\requierements.txt`
 
 
+# Lancer le serveur streamlit
+## part 1 : 
+`streamlit run ./pages/0_introduction.py` 
+## part2 : 
+`streamlit run ./pages/1_visualisation_interactive.py`
 
 => https://github.com/gcortier/mod0_brief1
